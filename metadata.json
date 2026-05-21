@@ -1,0 +1,6 @@
+{
+  "name": "VoxSRT - SRT to Audio AI",
+  "description": "Ứng dụng chuyển đổi tệp phụ đề SRT sang âm thanh chất lượng cao hỗ trợ đa ngôn ngữ bằng công nghệ AI Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
